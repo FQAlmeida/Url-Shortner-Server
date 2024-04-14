@@ -1,4 +1,5 @@
 **/server*
+!**/server.go
 **/tmp*
 **/vendor*
 .*env*
