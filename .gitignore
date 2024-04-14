@@ -1,0 +1,5 @@
+**/server*
+**/tmp*
+**/vendor*
+.*env*
+**/url-shortner-fqa-firebase-adminsdk-zmv68-a3dcfdbe88.json
